@@ -1,5 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/78142697/227147120-4da42486-27f3-4482-a7d3-d5bb86ac02f5.jpg)
-<h3 align="center">A Data Enthusiast from India</h3>
+<h1 align="center">Data Enthusiast from India</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cibisaran&label=Profile%20views&color=0e75b6&style=flat" alt="cibisaran" /> </p>
 
