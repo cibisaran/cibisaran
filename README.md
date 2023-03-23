@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/cibisaran-c-b/home?authuser=0](https://sites.google.com/view/cibisaran-c-b/home?authuser=0)
+- 👨‍💻 All of my projects are available at [Cibi Saran's E-Portfolio](https://sites.google.com/view/cibisaran-c-b/home?authuser=0)
 
 - 💬 Ask me about **MySql, Power Bi, Python**
 
