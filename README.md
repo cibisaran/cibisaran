@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/cibisarancb" target="blank"><img src="https://img.shields.io/twitter/follow/cibisarancb?logo=twitter&style=for-the-badge" alt="cibisarancb" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Data Analysis** <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cibisaran&theme=radical" alt="cibisaran" /></p>
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
