@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cibisaran&theme=radical&show_icons=true&locale=en" alt="cibisaran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cibisaran&" alt="cibisaran" /></p>
