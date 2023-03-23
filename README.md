@@ -1,11 +1,13 @@
-![Banner](https://user-images.githubusercontent.com/78142697/227147120-4da42486-27f3-4482-a7d3-d5bb86ac02f5.jpg)
-<h2 align="center">Data Enthusiast from India</h2>
+![CS_Github_Banner](https://user-images.githubusercontent.com/78142697/227219142-1ef414a5-4183-48fd-8b9c-a9a5d46cd4d8.gif)
+<h2 align="center">𝑰 ❤️ 𝑫𝙖𝙩𝙖 𝙖𝙣𝙖𝒍𝙮𝙨𝙞𝙨</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cibisaran&label=Profile%20views&color=0e75b6&style=flat" alt="cibisaran" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cibisarancb" target="blank"><img src="https://img.shields.io/twitter/follow/cibisarancb?logo=twitter&style=for-the-badge" alt="cibisarancb" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cibisarancb" target="blank"><img src="https://img.shields.io/twitter/follow/cibisarancb?logo=twitter&style=for-the-badge" alt="cibisarancb" /></a> </p> 
+
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cibisaran&theme=radical" alt="cibisaran" /></p>
-- 🔭 I’m currently working on **Data Analysis** 
+
+- 🔭 I’m currently working on **Cluster Project in Data Analytics** 
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **cibisaran90@gmail.com**
 
-- ⚡ Fun fact **Never Expect!**
+- ⚡ Fun fact - **Never Expect!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cibisaran&theme=radical&show_icons=true&locale=en" alt="cibisaran" /></p>
 
+                                                      Made with ❤️ and Passion
