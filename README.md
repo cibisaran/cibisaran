@@ -32,6 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cibisaran&theme=radical&show_icons=true&locale=en&layout=compact" alt="cibisaran" /></p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="cibisaran-cb" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/cibisaran-cb?trk=profile-badge">Cibi Saran</a></div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cibisaran&theme=radical&show_icons=true&locale=en" alt="cibisaran" /></p>
 
                                                       Made with ❤️ and Passion
